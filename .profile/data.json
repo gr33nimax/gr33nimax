@@ -1,0 +1,199 @@
+{
+ "key": "9ed83c12",
+ "stars": 25,
+ "contributions": 2087,
+ "repos": 5,
+ "followers": 5,
+ "languages": [
+  [
+   "Python",
+   4491340
+  ],
+  [
+   "JavaScript",
+   12753
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 34
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "HYDRA-ULTIMATE",
+   "url": "https://github.com/gr33nimax/HYDRA-ULTIMATE",
+   "text": "Multi-Protocol Proxy & Routing Orchestrator for AWG2.0, Mieru, AnyTLS, NaiveProxy, TrustTunnel and others",
+   "fork": false,
+   "stars": 25,
+   "language": "Python",
+   "topics": [
+    "amneziawg2",
+    "anytls",
+    "hysteria2",
+    "mieru",
+    "naiveproxy",
+    "shadowtls",
+    "singbox",
+    "snell",
+    "trusttunnel",
+    "naive"
+   ]
+  },
+  {
+   "name": "hydrabox",
+   "url": "https://github.com/gr33nimax/hydrabox",
+   "text": "Subscription-first Android client for the Hydra self-hosted VPN stack, powered by HydraCore.",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "flutter",
+    "jwe",
+    "self-hosted",
+    "sing-box",
+    "vpn",
+    "wireguard",
+    "hydrabox"
+   ]
+  },
+  {
+   "name": "gr33nimax",
+   "url": "https://github.com/gr33nimax/gr33nimax",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "DnsConf",
+   "url": "https://github.com/gr33nimax/DnsConf",
+   "text": "DNS Block and Redirect configurer for Cloudflare / NextDNS",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "hydracore",
+   "url": "https://github.com/gr33nimax/hydracore",
+   "text": "Maintained Android networking runtime for the Hydra self-hosted VPN stack.",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": [
+    "android",
+    "go",
+    "self-hosted",
+    "sing-box",
+    "vpn",
+    "wireguard",
+    "hydracore",
+    "libbox"
+   ]
+  }
+ ]
+}
