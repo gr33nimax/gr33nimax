@@ -18,19 +18,18 @@
     "buttons"
   ],
   "hidden": [
-    "socials",
-    "stack"
+    "socials"
   ],
   "hero": {
     "greeting": "Привет, я",
     "name": "gr33nimax",
-    "subtitle": "Развиваю экосистему HYDRA",
+    "subtitle": "Своя инфраструктура. Свои правила.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
-        "icon": "hub",
-        "label": "Self-hosted VPN"
+        "icon": "share",
+        "label": "HYDRA ecosystem"
       },
       {
         "icon": "code",
@@ -39,56 +38,77 @@
     ]
   },
   "about": {
-    "title": "HYDRA — мои проекты",
+    "title": "Что я делаю",
     "items": [
       {
-        "icon": "hub",
-        "label": "Сервер, сетевое ядро и Android-клиент"
+        "icon": "share",
+        "label": "Развиваю HYDRA: от VPS до Android-клиента"
       },
       {
-        "icon": "settings",
-        "label": "Автоматизация установки и управления"
+        "icon": "deployed_code",
+        "label": "Автоматизирую установку, обновления и управление сетью"
       },
       {
         "icon": "code",
-        "label": "Открытый код и контроль над своей инфраструктурой"
+        "label": "Работаю с прокси, DNS, маршрутизацией и сетевыми ядрами"
       }
     ]
   },
   "stack": {
-    "title": "Стек",
+    "title": "Технологии в моих проектах",
     "groups": [
       {
-        "title": "Main",
+        "title": "Сервер и сетевое ядро",
         "items": [
-          {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
-          },
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "share",
+            "label": "sing-box"
           }
         ]
       },
       {
-        "title": "Tools",
+        "title": "Android-клиент",
+        "items": [
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Jetpack Compose"
+          },
+          {
+            "icon": "deployed_code",
+            "label": "Android / libbox"
+          }
+        ]
+      },
+      {
+        "title": "Автоматизация",
         "items": [
           {
             "icon": "brand:git",
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
+          },
+          {
+            "icon": "terminal",
+            "label": "Shell"
           }
         ]
       }
@@ -98,23 +118,23 @@
     "source": "manual",
     "repos": [
       "HYDRA-ULTIMATE",
-      "hydracore",
-      "hydrabox"
+      "hydrabox",
+      "hydracore"
     ],
     "overrides": {
       "HYDRA-ULTIMATE": {
         "text": "Установка, управление прокси-протоколами и маршрутизацией.",
-        "icon": "hub",
+        "icon": "share",
         "shape": "clover"
       },
       "hydracore": {
-        "text": "Сетевое ядро экосистемы HYDRA для Android.",
-        "icon": "settings",
+        "text": "Сетевое ядро на Go для VPS и Android.",
+        "icon": "deployed_code",
         "shape": "gem"
       },
       "hydrabox": {
-        "text": "Android-клиент HYDRA с подключением по подписке.",
-        "icon": "smartphone",
+        "text": "Android-клиент: подписки, VPN и маршрутизация.",
+        "icon": "brand:android",
         "shape": "cookie"
       }
     },
@@ -147,15 +167,15 @@
   "buttons": {
     "items": [
       {
-        "icon": "code",
-        "label": "Репозитории",
-        "url": "https://github.com/gr33nimax?tab=repositories",
+        "icon": "brand:android",
+        "label": "Скачать HydraBox",
+        "url": "https://github.com/gr33nimax/hydrabox/releases",
         "style": "filled"
       },
       {
-        "icon": "hub",
-        "label": "HYDRA-ULTIMATE",
-        "url": "https://github.com/gr33nimax/HYDRA-ULTIMATE",
+        "icon": "book_2",
+        "label": "Документация",
+        "url": "https://github.com/gr33nimax/HYDRA-ULTIMATE#readme",
         "style": "tonal"
       }
     ]
