@@ -1,6 +1,6 @@
 {
- "key": "64f31d9d",
- "stars": 25,
+ "key": "b6b5e41f",
+ "stars": 26,
  "contributions": 2089,
  "repos": 5,
  "followers": 5,
@@ -126,7 +126,7 @@
    "url": "https://github.com/gr33nimax/HYDRA-ULTIMATE",
    "text": "Multi-Protocol Proxy & Routing Orchestrator for AWG2.0, Mieru, AnyTLS, NaiveProxy, TrustTunnel and others",
    "fork": false,
-   "stars": 25,
+   "stars": 26,
    "language": "Python",
    "topics": [
     "amneziawg2",
