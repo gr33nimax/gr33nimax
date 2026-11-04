@@ -1,5 +1,5 @@
 {
- "key": "eca15480",
+ "key": "2ee4e981",
  "stars": 28,
  "contributions": 2089,
  "repos": 5,
@@ -103,9 +103,13 @@
    {
     "c": 0,
     "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
     "today": true
    },
-   null,
    null,
    null,
    null
