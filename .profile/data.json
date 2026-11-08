@@ -1,5 +1,5 @@
 {
- "key": "37f33d85",
+ "key": "eb7060c6",
  "stars": 28,
  "contributions": 2089,
  "repos": 5,
@@ -134,7 +134,7 @@
    "url": "https://github.com/gr33nimax/hydrabox",
    "text": "Subscription-first Android client for the Hydra self-hosted VPN stack, powered by HydraCore.",
    "fork": true,
-   "stars": 2,
+   "stars": 3,
    "language": "Kotlin",
    "topics": [
     "android",
