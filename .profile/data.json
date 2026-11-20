@@ -1,5 +1,5 @@
 {
- "key": "9903badf",
+ "key": "4ad288f5",
  "stars": 31,
  "contributions": 2091,
  "repos": 5,
@@ -113,9 +113,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
